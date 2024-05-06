@@ -25,6 +25,16 @@ The questions can be found in questionnaire.rb
 
 Ensure we can run your exercise
 
+## How to run the this script
+```sh
+bundle
+ruby questionnaire.rb
+rspec questionnaire_spec.rb
+```
+## ScreenShot of the output
+https://drive.google.com/file/d/1dvKIOGQFuHQNZlf8ZgWiIySjgX0qOEoX/view?usp=sharing
+https://drive.google.com/file/d/1IzcOlcL8ZgoIUpuRNh55vYQPX8lVFTfw/view?usp=sharing
+
 ## Bonus Points
 
 Updated readme with an explanation of your approach
